@@ -27,7 +27,29 @@ Above is a portfolio of projects that showcase skillsets in Data exploration and
           - Conditional Formatting
     
     ** SQL
-          - 
+          - Data types
+          - CREATE TABLE
+          - INSERT INTO
+          - ALTER TABLE
+          - ADD PRIMARY KEY
+          - SELECT & FROM (also AS)
+          - WHERE
+          - LIMIT
+          - GROUP BY
+          - HAVING
+          - AND, OR
+          - Aggregation functions (COUNT, AVG, SUM, MIN, MAX)
+          - TRUNCATE
+          - ORDER BY
+          - ROW_NUMBER()
+          - Window Functions (OVER(), PARTITION BY)
+          - ROUND, FLOOR, UPPER
+          - Joins (INNER) (know the rest but didn't use)
+          - CASE WHEN
+          - UNION
+          - INTERSECT
+          - Subqueries (SELECT in WHERE)
+      
 
 
 
