@@ -14,7 +14,7 @@ Interesting Insights:
     - Significant indicators of Diabetes include glucose concentration, BMI, diabetes pedigree function, and 
       number of pregnancies.
     
-    - BMI is much less correalted to Diabetes that I had thought, with a Pearson coefficient of 0.043 
+    - BMI is much less significant of an indicator than I had thought, with a Pearson coefficient of 0.043 
       (close proximity to significance level).
     
     - Insulin negatively correlated to both number of pregnancies and blood pressure.
