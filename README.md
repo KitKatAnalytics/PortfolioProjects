@@ -55,5 +55,5 @@ Above is a portfolio of projects that showcase skillsets in Data exploration and
           - Data Exploration
           - Machine Learning
           - Regression / Classification
-          - Packages (tidyverse, dplyr, ggplot2, janitor, broom, caret)
+          - Packages (tidyverse, dplyr, ggplot2, janitor, broom, caret, corrplot, data.table)
 
