@@ -26,7 +26,7 @@ Above is a portfolio of projects that showcase skillsets in Data exploration and
           - INDEX MATCH
           - Conditional Formatting
     
-    ** SQL
+    ** SQL:
           - Data types
           - CREATE TABLE
           - INSERT INTO
@@ -50,23 +50,10 @@ Above is a portfolio of projects that showcase skillsets in Data exploration and
           - INTERSECT
           - Subqueries (SELECT in WHERE)
       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     ** R:
+          - Data Cleaning
+          - Data Exploration
+          - Machine Learning
+          - Regression / Classification
+          - Packages (tidyverse, dplyr, ggplot2, janitor, broom, caret)
 
