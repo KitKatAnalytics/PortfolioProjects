@@ -18,3 +18,17 @@ Interesting Insights:
       (close proximity to significance level).
     
     - Insulin negatively correlated to both number of pregnancies and blood pressure.
+
+Recommendations:
+
+    - Essential to educate the public (not just women) about the significant risk factors for diabetes and 
+      encourage a healthier lifestyle and diet that ensures stability in levels of blood pressure and glucose.
+      
+    - Regular check-ups post 20 years old, especially when risk factors are prevalent, can help in 
+      early detection and subsequent treatment of condition. 
+      
+    - As women have more pregnancies, they should consider monitoring blood glucose levels regularly.
+    
+    - Holistic increase in research conducted in understanding the additional genetic and environmental factors  
+      connected to diabetes prognosis, a requirement to effective treatment strategy development, and
+      possibly even prevention.
