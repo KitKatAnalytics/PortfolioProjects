@@ -6,12 +6,15 @@ baseline accuracy of 68%
 
 Interesting Insights:
 
-    - The number of pregnancies is fairly significantly correlated to diabetes in what is known as Gestational Diabetes (had no idea this existed).
+    - The number of pregnancies is fairly significantly correlated to diabetes in what is known as Gestational 
+      Diabetes (had no idea this existed).
     
     - Around a third of women in data set had tested positive for Diabetes at the time of data collection.
     
-    - Significant indicators of Diabetes include glucose concentration, BMI, diabetes pedigree function, and number of pregnancies.
+    - Significant indicators of Diabetes include glucose concentration, BMI, diabetes pedigree function, and 
+      number of pregnancies.
     
-    - BMI is much less correalted to Diabetes that I had thought, with a Pearson coefficient of 0.043 (close proximity to significance level).
+    - BMI is much less correalted to Diabetes that I had thought, with a Pearson coefficient of 0.043 
+      (close proximity to significance level).
     
     - Insulin negatively correlated to both number of pregnancies and blood pressure.
