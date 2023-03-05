@@ -1,7 +1,7 @@
-Above is a machine learning project that aimed to predict Diabetes in women, a condition far too prevalent in society. It begins with an intial 
+Above is a machine learning project that aimed to predict Diabetes in women, a condition far too prevalent in society. It begins with an initial 
 data cleaning process to fix issues in the data, and then a thorough exploration into aspects of the data. It culminated in an examination of 
 important parameters for diabetes diagnosis prediction, as well as the formulation of two models, one a generalised linear model, and the other
-implementing K-Nearest neighbours, to predict diabetes frequency ina training set. The highest accuracy achieved was 83%, a great level considering the
+implementing K-Nearest neighbours, to predict diabetes frequency in a training set. The highest accuracy achieved was 83%, a great level considering the
 baseline accuracy of 68%
 
 Interesting Insights:
