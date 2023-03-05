@@ -1,5 +1,5 @@
 # PortfolioProjects
-Above is a portfolio of projects that showcase skillsets in Data exploration and Visualisation, skillsets that serve invaluable in tackling the abundance of continually emerginging data. The software I have proficiency in as well as the skills demonstrated include:
+Above is a portfolio of projects that showcase skillsets in Data exploration and Visualisation, skillsets that serve invaluable in tackling the abundance of continually emerging data. The software I have proficiency in as well as the skills demonstrated include:
 
     ** Tableau:
           - Cleaning Data
@@ -9,7 +9,7 @@ Above is a portfolio of projects that showcase skillsets in Data exploration and
           - Table Calculations
           - Charts
           - Dashboard
-          - FIlters
+          - Filters
           - Themes
         
     ** Excel: 
